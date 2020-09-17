@@ -1,10 +1,10 @@
 # Site settings
-title: Lieverton Silva
+title: João Junior
 description: "Business Card Page"
 url: "https://jjunieko.github.io/joao.junior.github.io/"
 baseurl: ""
-profilepic: "/images/p.jpeg"
-bkimage: "/images/k&l.jpeg"
+profilepic: "/images/j.jpeg"
+bkimage: "/images/cover.jpeg"
 google_analytics: UA-XXXXXX-X
 font_awesome: "XXXXXXXXXX.js"
 
